@@ -10,3 +10,10 @@ The Nobel Foundation has made a dataset available of all prize winners from the 
 In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
 
 The Jupiter notebook containing the project could be viewed [here](https://github.com/nikhilkhawase/Project-Visualizing-the-History-of-Nobel-Prize-Winners/blob/main/Project%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners.ipynb)
+
+## Source:
+### Project source: Datacamp
+This project was a guided project which is a part of a part of the Python course track I followed.
+
+### Data source: Kaggle:
+The data source has been imported from Kaggle.
