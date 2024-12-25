@@ -7,7 +7,7 @@ The Nobel Prize has been among the most prestigious international awards since 1
 
 The Nobel Foundation has made a dataset available of all prize winners from the outset of the awards from 1901 to 2023. The dataset used in this project is from the Nobel Prize API and is available in the nobel.csv file in the data folder.
 
-In this project, you'll get a chance to explore and answer several questions related to this prizewinning data. And we encourage you then to explore further questions that you're interested in!
+In this project, we will explore and answer several questions related to this prizewinning data.
 
 The Jupiter notebook containing the project could be viewed [here](https://github.com/nikhilkhawase/Project-Visualizing-the-History-of-Nobel-Prize-Winners/blob/main/Project%20Visualizing%20the%20History%20of%20Nobel%20Prize%20Winners.ipynb)
 
